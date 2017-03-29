@@ -1,0 +1,14 @@
+#main{
+	position: relative;
+}
+
+#sebet{
+	width: 230px;
+	height: 100px;
+	border: 2px solid brown;
+	border-top: none;
+	margin-top: 20px;
+	position: absolute;
+	top: 200%;
+	left: 20%;
+}
